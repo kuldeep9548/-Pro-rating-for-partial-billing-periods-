@@ -1,4 +1,3 @@
-
 Pro-rating for Partial Billing Periods
 Project Description
 This project implements a blockchain-based subscription billing system on Core Chain that specializes in pro-rating subscription fees for partial billing periods. The smart contract allows businesses to offer fair and transparent billing to customers by charging them only for the actual time they use a service, rather than forcing them to pay for full billing cycles when they subscribe or unsubscribe mid-cycle.
@@ -61,3 +60,6 @@ Excess payments are automatically returned to users
 No administrative functions can modify existing subscriptions
 This project is licensed under the MIT License - see the LICENSE file for details
 
+contract address - 0xcc95a9883915876b505216efb92d55611210a5ff
+
+![WhatsApp Image 2025-04-30 at 15 14 27_08e6bb46](https://github.com/user-attachments/assets/f2c7dbec-cf6a-44cd-abf5-1aeaa9cc7fd0)
